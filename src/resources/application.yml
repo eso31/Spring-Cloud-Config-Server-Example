@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: /home/dcross/Desktop/repo
+          uri: /home/dcross/Documents/java/SpringCloudConfig/SCServer
           clone-on-start: true
 security:
   user:
